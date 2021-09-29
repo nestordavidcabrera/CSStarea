@@ -1,0 +1,17 @@
+h4{
+    background-color: lightcoral;
+    text-align: center;
+    font-size: 24px;
+}
+.destacados{
+    color: rebeccapurple;
+    font-family: sans-serif;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+a{
+    background-color: powderblue;
+}
+a:hover{
+    background-color: orange;
+}
